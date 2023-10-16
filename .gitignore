@@ -1,0 +1,65 @@
+# Ignorar arquivos e pastas gerados pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de configuração do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos de log e depuração
+*.log
+*.log.xml
+*.log.html
+*.pid
+npm-debug.log
+
+# Ignorar arquivos de compilação e pacotes
+node_modules/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bower_components/
+__pycache__/
+
+# Ignorar arquivos temporários
+[Tt]emp/
+[Vv]ideo[s]/
+[Ss]creenshot[s]/
+[Tt]humbs.db
+[Tt]humbs.db:encryptable
+[Tt]humbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+*.stackdump
+
+# Ignorar arquivos de configuração do Windows
+[Dd]ebug/
+[Rr]elease/
+_ReSharper/
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos de projeto do Visual Studio
+ipch/
+*.aps
+*.ncb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+
